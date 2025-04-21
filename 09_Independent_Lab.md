@@ -4,7 +4,8 @@ In this assignment you will practice implementing statistical approaches in Pyth
 
 ## Linear and Multiple Regression
 
-* Using `intent1_01` as the target variable, create a regression model using only 5 of the other numerical variables (do not include `intent1_02`, `intent1_03`, and `intent1_04` as independent variables)
+* Using `intent1_01` as the target variable, create a regression model using only 5 of the other numerical variables
+  * Do not include `intent1_02`, `intent1_03`, and `intent1_04` as independent variables
 * Assess the validity of the assumptions of 
   * linearity,
   * collinearity,
@@ -15,3 +16,5 @@ In this assignment you will practice implementing statistical approaches in Pyth
   * Which variables are significant? Based on what assessment? 
   * Choose two significant variables. From a business perspective, why are they significant?
 * Provide the equation for your model and interpret the results.
+
+**Save your notebook with output showing your code has been successfully executed and then submit for grading.**
