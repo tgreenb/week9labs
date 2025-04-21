@@ -1,6 +1,6 @@
 # Instructor-led Lab: Descriptive Statistics
 
-In this assignment you will practice implementing statistical approaches in Python. You will use the datasets you previously made use of in the Week 7 Independent lab. 
+In this assignment you will practice implementing statistical approaches in Python. You will use the datasets you previously made use of in the [Week 7 Independent lab](https://github.com/UM-BGEN632/week7labs/blob/main/07_Independent_Lab.md). 
 
 ## Context
 
@@ -71,8 +71,10 @@ Please produce the following summary statistics:
 
 Create some visuals to explore the data:
 * Create histograms of the following variables: `NoFTE`, `NetPatRev`, `InOperExp`, `OutOperExp`, `OperRev`, `OperInc`, and `AvlBeds`.
-* Create scatterplots of the following variables using *net patient revenue* as the target variable (i.e. place it on the *y*-axis): `NoFTE`, `InOperExp`, `OutOperExp`, `OperRev`, `OperInc`, and `AvlBeds`.
-  * Describe the linearity and trend of each plot you created.
+* Create scatterplots of the following variables using *net patient revenue* as the target variable (i.e., place it on the *y*-axis): `NoFTE`, `InOperExp`, `OutOperExp`, `OperRev`, `OperInc`, and `AvlBeds`.
+  * Describe the linearity and trend of each plot.
 * Create a boxplot and assess the lack or presence of outliers for the following variables: `NoFTE`, `NetPatRev`, `InOperExp`, `OutOperExp`, `OperRev`, `OperInc`, and `AvlBeds`. You may need to split the variables up due to the range of values in the data (like we did in the tutorial).
   * Choose three variables and create a QQ plot, providing your assessment of the normality.
-  * Perform a Shapiro-Wilk test of those three variables; do your results coincide with the QQ plots?
+  * Perform a Shapiro-Wilk test on those three variables; do your test results coincide with the QQ plots?
+ 
+ **Save your notebook with output showing your code has been successfully executed and then submit for grading.**
