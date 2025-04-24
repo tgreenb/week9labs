@@ -1,6 +1,6 @@
 # Independent Lab: Inferential Statistics
 
-In this assignment you will practice implementing statistical approaches in Python. For this assignment, please complete the following tasks using the [ect_data.txt](/data/ect_data.txt) dataset. 
+In this assignment you will practice implementing statistical approaches in Python. For this assignment, please complete the following tasks using the [ect_data.txt](/data/ect_data.txt) dataset. This dataset represents an assessment of employees’ adoption of a new system within an organization. Specifically, the dataset contains responses to questionnaire items about attitudes toward a system, intention to use a system, perceived usefulness of the system, and satisfaction with the system.
 
 ## Linear and Multiple Regression
 
